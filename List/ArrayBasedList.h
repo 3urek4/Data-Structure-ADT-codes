@@ -11,7 +11,7 @@ private:
     Elem* listArray; // Array holding list elements
 
 public:
-    AList(int size = 10); // Constructor(10 is default listSize, usually assign a suitable constant value)
+    AList(int size = 10); // Constructor(10 is a default listSize, usually assign a suitable constant value)
     void clear();
     bool isEmpty() const;
     bool insert(const Elem& item);
