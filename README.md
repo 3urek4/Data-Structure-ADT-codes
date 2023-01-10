@@ -6,6 +6,7 @@
 
 <p align="center">
   <img alt="GitHub" src="https://img.shields.io/github/license/3urek4/Data-Structure-ADT-codes">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/3urek4/Data-Structure-ADT-codes">
 </p>
 
 <p align="center">
