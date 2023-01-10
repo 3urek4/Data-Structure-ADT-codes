@@ -5,6 +5,10 @@
 <h1 align="center">Data-Structure-ADT-codes</h1>
 
 <p align="center">
+  <img alt="GitHub" src="https://img.shields.io/github/license/3urek4/Data-Structure-ADT-codes">
+</p>
+
+<p align="center">
 该仓库代码是将数据结构课程代码根据个人习惯和思考进行些许修改的版本，并加入了测试代码，旨在保存代码和复习巩固
 </p>
 
