@@ -7,8 +7,8 @@ template<class Elem>
 class LStack: public Stack<Elem>
 {
 private:
-    Link<Elem>* top;
-    int stackSize;
+    Link<Elem>* top; // Pointer to the top element of the stack
+    int stackSize; // Number of the elements in the stack
 
 public:
     LStack(); // Constructor
